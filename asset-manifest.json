@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Weirdo/static/css/main.3e97b3a2.css",
+    "main.js": "/Weirdo/static/js/main.bedd141e.js",
+    "static/media/Home Video.mp4": "/Weirdo/static/media/Home Video.d4bf2265b2f4a01a1582.mp4",
+    "static/media/akaya-telivigala-telugu-400-normal.woff2": "/Weirdo/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
+    "static/media/akaya-telivigala-telugu-400-normal.woff": "/Weirdo/static/media/akaya-telivigala-telugu-400-normal.e112204d4f41f4f53710.woff",
+    "static/media/sora-latin-wght-normal.woff2": "/Weirdo/static/media/sora-latin-wght-normal.98b83c6595aa0c39d6cb.woff2",
+    "static/media/akaya-telivigala-latin-400-normal.woff2": "/Weirdo/static/media/akaya-telivigala-latin-400-normal.6adfb2bb1dd65aa73a6c.woff2",
+    "static/media/akaya-telivigala-latin-400-normal.woff": "/Weirdo/static/media/akaya-telivigala-latin-400-normal.bc1e79e5c923a6ba890d.woff",
+    "static/media/akaya-telivigala-latin-ext-400-normal.woff2": "/Weirdo/static/media/akaya-telivigala-latin-ext-400-normal.806924fe3d6edb5e4e59.woff2",
+    "static/media/sora-latin-ext-wght-normal.woff2": "/Weirdo/static/media/sora-latin-ext-wght-normal.17ea3cfa5ae8d93217e9.woff2",
+    "static/media/akaya-telivigala-latin-ext-400-normal.woff": "/Weirdo/static/media/akaya-telivigala-latin-ext-400-normal.75510d2b3f282db9b14e.woff",
+    "index.html": "/Weirdo/index.html",
+    "main.3e97b3a2.css.map": "/Weirdo/static/css/main.3e97b3a2.css.map",
+    "main.bedd141e.js.map": "/Weirdo/static/js/main.bedd141e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e97b3a2.css",
+    "static/js/main.bedd141e.js"
+  ]
+}
