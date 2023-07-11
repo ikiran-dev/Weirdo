@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Weirdo/static/css/main.c2790553.css",
-    "main.js": "/Weirdo/static/js/main.35846384.js",
+    "main.js": "/Weirdo/static/js/main.747ce1ad.js",
     "static/media/Home Video.mp4": "/Weirdo/static/media/Home Video.d4bf2265b2f4a01a1582.mp4",
     "static/media/akaya-telivigala-telugu-400-normal.woff2": "/Weirdo/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
     "static/media/akaya-telivigala-telugu-400-normal.woff": "/Weirdo/static/media/akaya-telivigala-telugu-400-normal.e112204d4f41f4f53710.woff",
@@ -24,10 +24,10 @@
     "static/media/Arrow.svg": "/Weirdo/static/media/Arrow.94ea34e744b92c5dad541e35d3a63dab.svg",
     "index.html": "/Weirdo/index.html",
     "main.c2790553.css.map": "/Weirdo/static/css/main.c2790553.css.map",
-    "main.35846384.js.map": "/Weirdo/static/js/main.35846384.js.map"
+    "main.747ce1ad.js.map": "/Weirdo/static/js/main.747ce1ad.js.map"
   },
   "entrypoints": [
     "static/css/main.c2790553.css",
-    "static/js/main.35846384.js"
+    "static/js/main.747ce1ad.js"
   ]
 }
